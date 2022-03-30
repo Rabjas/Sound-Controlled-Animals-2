@@ -1,0 +1,18 @@
+body{
+    background-color:powderblue;
+}
+.header{
+    background-color:springgreen; 
+}
+button{
+
+    width: 200px;
+    height: 42px;
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+image{
+    width: 300px;
+    height: 300px;
+}
